@@ -1,0 +1,5 @@
+title : Change Title of cmd
+echo :  print string and value
+set :  /a : arithmatic,   /p : prompt.
+
+%var% : print value of variable

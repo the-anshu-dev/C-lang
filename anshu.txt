@@ -1,0 +1,30 @@
+ Volume in drive C is Window 11
+ Volume Serial Number is 0629-EAEB
+
+ Directory of C:\Users\ASUS\OneDrive\Desktop\FS+MERN\Postmortem\C lang
+
+08/16/2023  08:53 AM    <DIR>          .
+08/10/2023  08:15 AM    <DIR>          ..
+08/16/2023  08:54 AM                 0 anshu.txt
+08/16/2023  08:51 AM             2,250 cmd file.txt
+08/11/2023  09:10 AM               136 cmdCommand.txt
+08/10/2023  12:48 PM               413 color.c
+08/10/2023  12:48 PM           368,271 color.exe
+08/16/2023  08:49 AM             5,740 Commandlist.txt
+08/11/2023  08:39 AM           367,349 p1.c
+08/11/2023  08:40 AM           367,349 p1.exe
+08/11/2023  08:37 AM             1,085 p1.o
+08/11/2023  08:44 AM                80 p2.c
+08/11/2023  08:46 AM           367,349 p2.exe
+08/11/2023  08:46 AM             1,085 p2.o
+08/11/2023  08:51 AM               132 p3.c
+08/11/2023  08:52 AM           367,349 p3.exe
+08/11/2023  08:52 AM             1,143 p3.o
+08/16/2023  08:51 AM             5,740 sort.text
+08/16/2023  08:52 AM             5,740 sort.txt
+08/11/2023  12:48 PM            17,158 Switch.c
+08/11/2023  11:49 AM           610,368 Switch.exe
+08/11/2023  10:10 AM             7,623 Switch.o
+08/10/2023  12:42 PM                87 tempCodeRunnerFile.c
+              21 File(s)      2,496,447 bytes
+               2 Dir(s)  150,828,007,424 bytes free

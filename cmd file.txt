@@ -1,0 +1,195 @@
+gcc -c p1.c
+
+gcc p1.o -o p1.exe
+
+p1.exe
+
+
+
+
+
+
+ _______________________________________
+|  THERE IS NO CASE_SENSIVITY in cmd    |
+|_______________________________________|
+
+rem           : is used as make command REMARK
+pause         : is used to ask user to continue (Enter)
+@echo on      : start reverse buffering : after statement o/p dega
+@echo off     : pause reverse buffering : after statement o/p ni dega.
+sort          : to sort the element (ctrl + c : to display answer)
+ver           : show version of cmd
+xyz --version : to check version
+cls           : clear the recent text
+exit          : terminate cmd window.
+dir           : to show current directory.
+set           : /a, /p
+%x%           : value
+echo          : print
+title         : cmd name changer.
+cd            : directly to 
+cd..          : 1-step back-directory.
+cd/           : Go to directly main drive --> C:/
+start code    : open vscode
+start notepad : open notepad
+
+
+
+
+
+
+
+Relative path :
+_________________
+1) . or ./ or /    : Current directory  (start . 
+2) .. or ../       : parent directory
+3) cd/             : root loaction
+4) .../ is equal to ./
+
+
+
+
+
+
+Launching the window explorer :
+________________________________
+1. C:\Users\ASUS>start .   : Launch ASUS folder
+
+
+
+
+
+Going forward inside any folder :
+_____________________________________
+1. cd : is used to get inside of any folder.
+
+
+
+
+
+How to see list of files and folder inside a directory :
+______________________________________________
+1. dir : show directory of current folder.
+
+
+
+
+
+How to access BIOS system info.
+**********************************
+systeminfo : show all info of BIOS
+
+
+
+
+Color Changing : 
+*****************
+color bf : b : background(0->black), f: font(1->green)
+
+
+
+
+date and time in cmd :
+****************************
+echo date : display date
+echo time : display time
+
+note : if we use 'date & time' as command if will allow you to change date of system (but not applicable for after Switch-on by Switch-Off systemm)
+
+
+
+
+
+ADD 2 or more than 2 cmd in once :
+**************************************
+use &&
+
+eg : cd:/ date && time && ver
+
+'date && time && ver' is act as combined command
+
+
+
+
+Output Buffering in cmd : 
+****************************
+its a concept  using which we can store the list of command into a file rather than displaying in console .txt file 
+
+help
+help > filename --> help > cmd.txt
+type filename ----> type cmd.txt
+start notepad filename --> start notepad cmd.txt
+
+
+
+
+Introduction to batch programming : 
+***************************************
+1. Batch ?   --> when we write mulitple lines of command or statement in a file. and execute in s bulk, also called as batch(lot) programming. [Group of code.]
+{Extension of batch file is .bat : file.bat}
+
+Advantage : 
+1. With-in same span of time, it can exe. multiple statement.
+2. You can group the logic as per your requirements.
+
+Eg----------------------*******
+ One batch file as-----Anshu.bat----------
+
+command 1
+command 2
+command 3
+command 4
+command 5
+command 6
+command 7
+command 8
+command 9
+command 10
+................
+.............
+.........
+
+
+How to create bat script :
+***************************
+
+1. make file in cmd as file.bat  or file.cmd
+2. COmmand
+
+. start notepad file.bat
+.   echo Line1
+    echo Line2
+    pause
+    echo Line3
+    ver
+
+. file.bat
+
+3. Add comments : 
+       Rem : use Rem as to mark comments 
+            eg : Rem i am comment using 'Rem'
+
+
+
+4. making Function in cmd 
+_____________________________
+ :anshu <-- function make
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
